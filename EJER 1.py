@@ -1,3 +1,7 @@
+#Realice un programa en Python que leer los datos (nombre, edad y sueldo) de n empleados 
+#(máximo 10) e imprima los trabajadores con sueldo máximo y mínimo, así como la media de 
+#los sueldos
+
 from os import system
 system("cls")
 
